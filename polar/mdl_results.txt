@@ -1,0 +1,18 @@
+                 Mixed Linear Model Regression Results
+=======================================================================
+Model:                 MixedLM     Dependent Variable:     kiloCalories
+No. Observations:      265         Method:                 REML        
+No. Groups:            2           Scale:                  2961.4954   
+Min. group size:       126         Log-Likelihood:         -1435.0860  
+Max. group size:       139         Converged:              Yes         
+Mean group size:       132.5                                           
+-----------------------------------------------------------------------
+                       Coef.   Std.Err.    z    P>|z|  [0.025   0.975] 
+-----------------------------------------------------------------------
+Intercept             -494.503   30.652 -16.133 0.000 -554.579 -434.426
+totalTime                6.432    0.495  12.989 0.000    5.461    7.403
+heartRateQ99             4.282    0.256  16.743 0.000    3.781    4.783
+Group Var                2.810    2.550                                
+Group x totalTime Cov    0.869                                         
+totalTime Var            0.423    0.016                                
+=======================================================================

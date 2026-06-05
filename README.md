@@ -1,1 +1,1 @@
-# EDA-Projects
+# EDA-Projects for data analyst 
